@@ -1,0 +1,28 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`PageNotFound Component > create PageNotFound snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="css-17bhemt"
+  >
+    <div
+      class="css-1attr2v"
+    >
+      <h2
+        class="chakra-heading css-yxom3w"
+      >
+        404
+      </h2>
+      <hr
+        aria-orientation="vertical"
+        class="chakra-divider css-erojza"
+      />
+      <p
+        class="chakra-text css-1tapsqs"
+      >
+        Page Not Found.
+      </p>
+    </div>
+  </div>
+</DocumentFragment>
+`;

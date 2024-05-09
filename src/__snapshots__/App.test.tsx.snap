@@ -1,0 +1,26 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`App Component > create App snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="css-192kh8p"
+  >
+    <h2
+      class="chakra-heading css-0"
+    >
+      Welcome to AX Grid
+    </h2>
+    <button
+      class="chakra-button css-1fb3vhs"
+      data-testid="link"
+      type="button"
+    >
+      <a
+        href="/grid"
+      >
+        Enter Platform
+      </a>
+    </button>
+  </div>
+</DocumentFragment>
+`;

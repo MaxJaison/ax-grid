@@ -1,0 +1,77 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Filters Component > create Filters snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="css-1jr4x0c"
+  >
+    <p
+      class="chakra-text css-bxx4ns"
+    >
+      Select which type of energy to display in the grid: 
+    </p>
+    <div
+      class="chakra-select__wrapper css-18sl0nf"
+    >
+      <select
+        class="chakra-select css-1j3r4nt"
+      >
+        <option
+          selected=""
+          value="Solar"
+        >
+          Solar
+        </option>
+        <option
+          value="Gas"
+        >
+          Gas
+        </option>
+        <option
+          value="Wind"
+        >
+          Wind
+        </option>
+        <option
+          value="Hydro"
+        >
+          Hydro
+        </option>
+        <option
+          value="Kinetic"
+        >
+          Kinetic
+        </option>
+        <option
+          value="Thermal"
+        >
+          Thermal
+        </option>
+      </select>
+      <div
+        class="chakra-select__icon-wrapper css-162mkon"
+      >
+        <svg
+          aria-hidden="true"
+          class="chakra-select__icon"
+          focusable="false"
+          role="presentation"
+          style="width: 1em; height: 1em; color: currentColor;"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M16.59 8.59L12 13.17 7.41 8.59 6 10l6 6 6-6z"
+            fill="currentColor"
+          />
+        </svg>
+      </div>
+    </div>
+    <button
+      class="chakra-button css-51wpq4"
+      type="button"
+    >
+      Add New Deal
+    </button>
+  </div>
+</DocumentFragment>
+`;
